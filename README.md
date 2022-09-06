@@ -7,7 +7,7 @@ Gruppe: 5B <br> :+1: :shipit:
 
 | Fullt navn                | URL til individuell github repository                         |
 | ------------------------- | ------------------------------------------------------------- |
-| Henrik Skogstad           | [Klikk her](https://github.com/Skogstad-beep/IND-GITHUB-KONTO)|
+| Henrik Skogstad           | [Klikk her](https://github.com/Skogstad-beep/IND-REPOSITORY)  |
 | Tobias Funes              | [Klikk her](https://github.com/ImToeb/IND-REPOSITORY)         |
 | Christian Åbyholm         | Lenke kommer...                                               |
 | Joakim Luktvassli Pedersen| Lenke kommer...                                               |
