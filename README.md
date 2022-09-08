@@ -5,6 +5,7 @@
 
 <!-- Personalia --->
 
+
 | Fullt navn                | URL                                                           | Forståelse av Git og Github |
 | ------------------------- | ------------------------------------------------------------- | --------------------------- |
 | Henrik Skogstad           | [Klikk her](https://github.com/Skogstad-beep/IND-REPOSITORY)  | Ikke så veldig flink :(     |
