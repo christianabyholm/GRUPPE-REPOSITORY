@@ -10,7 +10,7 @@ Gruppe: 5B <br> :+1: :shipit:
 | Henrik Skogstad           | [Klikk her](https://github.com/Skogstad-beep/IND-REPOSITORY)  |
 | Tobias Funes              | [Klikk her](https://github.com/ImToeb/IND-REPOSITORY)         |
 | Christian Åbyholm         | Lenke kommer...                                               |
-| Joakim Luktvassli Pedersen| Lenke kommer...                                               |
+| Joakim Luktvassli Pedersen| [Klikk her](https://github.com/joakimlped/IND-REPOSITORY)     |
 | Lars Utklev               | Lenke kommer...                                               |
 
 <!-- Bilder --->
