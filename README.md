@@ -11,7 +11,7 @@ Gruppe: 5B <br> :+1: :shipit:
 | Tobias Funes              | [Klikk her](https://github.com/ImToeb/IND-REPOSITORY)         |
 | Christian Åbyholm         | Lenke kommer...                                               |
 | Joakim Luktvassli Pedersen| [Klikk her](https://github.com/joakimlped/IND-REPOSITORY)     |
-| Lars Utklev               | Lenke kommer...                                               |
+| Lars Fredrik Utklev       | [Klikk her](https://github.com/lasapasa/IND-REPOSITORY)       |                                       |
 
 <!-- Bilder --->
 <img src="https://i.imgur.com/Knyy5g2.jpg" alt="drawing" width="250"/> <img src="https://i.imgur.com/QzvGwnX.jpg" alt="drawing" width="250"/>
