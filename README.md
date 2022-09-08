@@ -10,7 +10,7 @@
 | ------------------------- | ------------------------------------------------------------- | --------------------------- |
 | Henrik Skogstad           | [Klikk her](https://github.com/Skogstad-beep/IND-REPOSITORY)  | Middels++                   |
 | Tobias Funes Jerstad      | [Klikk her](https://github.com/ImToeb/IND-REPOSITORY)         | veldig lite forståelse 2.5/5|
-| Christian Åbyholm         | Lenke kommer...                                               |                             |
+| Christian Åbyholm         | [Klikk her](https://github.com/christianabyholm/IND-REPOSITORY.)|   1                         |                          
 | Joakim Luktvassli Pedersen| [Klikk her](https://github.com/joakimlped/IND-REPOSITORY)     |   2                         |
 | Lars Fredrik Utklev       | [Klikk her](https://github.com/lasapasa/IND-REPOSITORY)       | Middels++                   |
                                                                                             
