@@ -9,9 +9,9 @@
 | Fullt navn                | URL                                                           | Forståelse av Git og Github |
 | ------------------------- | ------------------------------------------------------------- | --------------------------- |
 | Henrik Skogstad           | [Klikk her](https://github.com/Skogstad-beep/IND-REPOSITORY)  | Middels++                   |
-| Tobias Funes Jerstad      | [Klikk her](https://github.com/ImToeb/IND-REPOSITORY)         | veldig lite forståelse      |
+| Tobias Funes Jerstad      | [Klikk her](https://github.com/ImToeb/IND-REPOSITORY)         | veldig lite forståelse  1/5 |
 | Christian Åbyholm         | Lenke kommer...                                               |                             |
-| Joakim Luktvassli Pedersen| [Klikk her](https://github.com/joakimlped/IND-REPOSITORY)     |            2                |
+| Joakim Luktvassli Pedersen| [Klikk her](https://github.com/joakimlped/IND-REPOSITORY)     |                             |
 | Lars Fredrik Utklev       | [Klikk her](https://github.com/lasapasa/IND-REPOSITORY)       | Middels++                   |
                                                                                             
                                                                                             
